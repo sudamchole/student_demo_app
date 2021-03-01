@@ -277,7 +277,7 @@ class _RegisterState extends State<Register>
           //enabled: false,
           maxLines: 1,
           cursorColor: Colors.lightBlue,
-          textInputAction: TextInputAction.done,
+          textInputAction: TextInputAction.go,
           maxLength: 50,
           style: TextStyle(
             fontWeight: FontWeight.normal,
